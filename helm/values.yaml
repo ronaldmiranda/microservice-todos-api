@@ -2,7 +2,7 @@ microservice-deploys:
   container:
     microserviceName: todos-api
     image: ronaldmiranda/todos-api
-    tag: e227b39
+    tag: a6395a2
     envs:
       normalEnvs:
         TODO_API_PORT: "8082"
